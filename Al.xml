@@ -1,21 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="rtsh.al">
-  <channels>
-    <channel update="i" site="rtsh.al" site_id="rtsh-1" xmltv_id="RTSH 1">RTSH 1</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-2" xmltv_id="RTSH 2">RTSH 2</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-3" xmltv_id="RTSH 3">RTSH 3</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-24" xmltv_id="RTSH 24">RTSH 24</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-sport" xmltv_id="RTSH Sport">RTSH Sport</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-shkolle" xmltv_id="RTSH Shkollë">RTSH Shkollë</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-femije" xmltv_id="RTSH Femijë">RTSH Femijë</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-agro" xmltv_id="RTSH Agro">RTSH Agro</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-muzike" xmltv_id="RTSH Muzikë">RTSH Muzikë</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-film" xmltv_id="RTSH Film">RTSH Film</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-shqip" xmltv_id="RTSH Shqip">RTSH Shqip</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-kuvend" xmltv_id="RTSH Kuvend">RTSH Kuvend</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-kor-a" xmltv_id="RTSH Korça">RTSH Korça</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-gjirokastra" xmltv_id="RTSH Gjirokastra">RTSH Gjirokastra</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-kukesi" xmltv_id="RTSH Kukësi">RTSH Kukësi</channel>
-    <channel update="i" site="rtsh.al" site_id="rtsh-plus" xmltv_id="RTSH Plus">RTSH Plus</channel>
-  </channels>
-</site>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="21.Junior.al">
+<display-name lang="sq">21 Junior</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="21.Popullore.al">
+<display-name lang="sq">21 Popullore</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="24.Kitchen.al">
+<display-name lang="sq">24 Kitchen</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="ABC.News.al">
+<display-name lang="sq">ABC News</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Al.Jazeera.al">
+<display-name lang="sq">Al Jazeera</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Albanian.Screen.al">
+<display-name lang="sq">Albanian Screen</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Alsat.M.al">
+<display-name lang="sq">Alsat M</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Animal.Planet.HD.al">
+<display-name lang="sq">Animal Planet HD</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="B92.Info.al">
+<display-name lang="sq">B92 Info</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="BBC.World.al">
+<display-name lang="sq">BBC World</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Baby.TV.al">
+<display-name lang="sq">Baby TV</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Bang.Bang.al">
+<display-name lang="sq">Bang Bang</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Boomerang.al">
+<display-name lang="sq">Boomerang</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="CNN.int.al">
+<display-name lang="sq">CNN int</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Cufo.TV.al">
+<display-name lang="sq">Cufo TV</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="DW.TV.al">
+<display-name lang="sq">DW TV</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Digi.Gold.al">
+<display-name lang="sq">Digi Gold</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Discovery.Channel.al">
+<display-name lang="sq">Discovery Channel</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Discovery.Science.HD.al">
+<display-name lang="sq">Discovery Science HD</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="E.TV.al">
+<display-name lang="sq">E TV</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="EXP.Histori.al">
+<display-name lang="sq">EXP Histori</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="EXP.Natyra.al">
+<display-name lang="sq">EXP Natyra</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="EXP.Shkence.al">
+<display-name lang="sq">EXP Shkence</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="EuroNews.al">
+<display-name lang="sq">EuroNews</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="EuroSport.al">
+<display-name lang="sq">EuroSport</display-name>
+<url>http://www.ipko.com</url>
+</channel>
+<channel id="Fashion.TV.al">
+<display-name lang="sq">Fashion TV</display-name>
+<url>http://www.ipko.com</url>
+</channel>
