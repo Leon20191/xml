@@ -4,8 +4,8 @@ id="albklankosova.al"><display-name>ALB KLAN
 KOSOVA</display-name></channel><channel id="albklantv.al"><display-name>ALB KLAN
 TV</display-name></channel><channel id="artatv.al"><display-name>Arta TV</display-
 name></channel><channel
-id="euronews.al"><display-name>EURONEWS</display-name></channel><channel
-id="kanal10.al"><display-name>KANAL 10</display-name></channel><channel
+id="euronews.al"><display-name>EURONEWS</display-name></channel>
+<channel>id="kanal10.al"><display-name>KANAL 10</display-name></channel><channel
 id="ktv.al"><display-name>KTV</display-name></channel><channel
 id="news24.al"><display-name>News 24</display-name></channel><channel
 id="oranews.al"><display-name>Ora News</display-name></channel><channel
